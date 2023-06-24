@@ -8,7 +8,7 @@ This repository contains a SpecFlow NUnit C# project that demonstrates how to wr
 
 Before running the project, ensure that the following software is installed on your machine:
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 3.1 or higher)
+- .NET Core SDK (version 3.1 or higher)
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) (optional, but recommended)
 
 ## Getting Started
